@@ -11,11 +11,11 @@
     <header class="header">
         <a href="./index.html" class="logo"><i class="fa-solid fa-paw"></i>Pet<span>Care</span></a>
         <nav class="navbar">
-            <a href="./index.html">Home</a>
-            <a href="./pages/services.html">Services</a>
-            <a href="./pages/pricing.html">Pricing</a>
-            <a href="./pages/about.html">About Us</a>
-            <a href="./pages/contact.html">Contact Us</a>
+            <a href="./index.php">Home</a>
+            <a href="./pages/services.php">Services</a>
+            <a href="./pages/pricing.php">Pricing</a>
+            <a href="./pages/about.php">About Us</a>
+            <a href="./pages/contact.php">Contact Us</a>
         </nav>
        
     </header>
@@ -27,7 +27,7 @@
             <h3>PetCare</h3>
             <p class="desc">We Care <span>Your Pets</span></p>
             <p>Hello Guys, we are team Petcare. We take care of your pets. We massage them, provide showers, vaccinations, day-care and more...</p>
-            <a href="./pages/about.html" class="btn">About Us</a>
+            <a href="./pages/about.php" class="btn">About Us</a>
         </div>
         </section>
         <section class="icons-container">
